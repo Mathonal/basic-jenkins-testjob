@@ -1,4 +1,7 @@
-# to copy paste in jenkins job command
+# to copy paste in jenkins job command 
+# this is only to demonstrate its work with command
+# next up : use GIT source code management
+
 # 1- clone
 git clone https://github.com/Mathonal/basic-jenkins-testjob
 
